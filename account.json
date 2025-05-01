@@ -1,0 +1,26 @@
+{
+    "3812dfc99ec8f6f37ace6fcd8a1666a7":{
+        "Password":"e1abf9df0c677d710a35da3a4164459e",
+        "AvailableSoftware":{
+            "TeachingTool2.0":"2100年1月1日"
+        }
+    },
+    "07811dc6c422334ce36a09ff5cd6fe71":{
+        "Password":"a34522e2009192570c840f931e4c3c0a",
+        "AvailableSoftware":{
+            "TeachingTool2.0":"2024年2月20日"
+        }
+    },
+    "1ace113b390fb0421fde0765831ffa4e":{
+        "Password":"1ace113b390fb0421fde0765831ffa4e",
+        "AvailableSoftware":{
+            "TeachingTool2.0":"2026年6月20日"
+        }
+    },
+    "67527d484b35fb0f896a3eab9df375ed":{
+        "Password":"1a596637d8862091f5d168299ba2136a",
+        "AvailableSoftware":{
+            "Null":"Null"
+        }
+    }
+}
